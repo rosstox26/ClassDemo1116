@@ -11,7 +11,7 @@ import android.widget.Toast;
 
 public class Main2Activity extends Activity implements View.OnClickListener {
 
-    //declare objects
+    //declare objects here
     private Button buttonGo;
 
     @Override
